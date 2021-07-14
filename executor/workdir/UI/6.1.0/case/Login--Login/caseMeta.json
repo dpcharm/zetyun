@@ -1,0 +1,13 @@
+{
+    "name": "AutoML--Run_DT_Standalone_BinaryClassification",
+    "type": "UI",
+    "version": "5.1.0",
+    "description": "运行DT单机二分类自动建模",
+    "author": "Bing",
+    "priority": 1,
+    "presetData": null,
+    "steps": [
+        "login",
+        "navToProjMgmt"
+    ]
+}

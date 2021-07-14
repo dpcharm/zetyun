@@ -1,0 +1,16 @@
+{
+  "login": {
+    "userName": {
+      "by": "id",
+      "byValue": "loginname"
+    },
+    "password": {
+      "by": "id",
+      "byValue": "password"
+    },
+    "loginButton": {
+      "by": "xpath",
+      "byValue": ".//button[@type='submit']"
+    }
+  }
+}

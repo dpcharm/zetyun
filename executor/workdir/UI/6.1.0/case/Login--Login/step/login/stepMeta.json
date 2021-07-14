@@ -1,0 +1,14 @@
+{
+    "name": "login",
+    "type": "UI",
+    "version": "6.0.0",
+    "description": "登入",
+    "data": {
+        "userName": "zhouzj",
+        "password": "123456"
+    },
+    "context": {
+        "input": null,
+        "output": null
+    }
+}

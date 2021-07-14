@@ -1,0 +1,15 @@
+{
+    "name": "DEMO",
+    "type": "UI",
+    "version": "5.1.0",
+    "description": "This is a demo test plan",
+    "podCount": 3,
+    "cpu": 1,
+    "mem": 2,
+    "priority": 1,
+    "status": "ENABLED",
+    "mailRecipient": "libing@zetyun.com;",
+    "cases": [
+        "AutoML--Run_DT_Standalone_BinaryClassification"
+    ]
+}
