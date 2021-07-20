@@ -1,0 +1,15 @@
+{
+  "modelService": {
+    "modelServiceTab": {
+      "mark": "导航栏模型服务选项",
+      "by": "xpath",
+      "byValue": "//div[@class='ant-menu-submenu-title']//span[text()=\"模型服务\"]"
+    },
+    "modelServiceListBtn": {
+      "mark": "导航栏模型服务下拉菜单--服务列表",
+      "by": "id",
+      "byValue": "servicelist"
+    }
+  }
+}
+

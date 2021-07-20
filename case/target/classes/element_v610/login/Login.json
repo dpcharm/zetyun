@@ -1,29 +1,17 @@
 {
-    "login": {
-        "domainUserSpan": {
-            "by": "xpath",
-            "byValue": "//form/div/span[2]"
-        },
-        "loginNameInput": {
-            "by": "id",
-            "byValue": "loginname"
-        },
-        "passwordInput": {
-            "by": "id",
-            "byValue": "password"
-        },
-        "loginButton": {
-            "by": "xpath",
-            "byValue": ".//button[@type='submit']"
-        },
-        "loginUserName": {
-            "by": "xpath",
-            "byValue": "//span[starts-with(@class,'account')]"
-        },
-        "logoutButton": {
-            "by": "xpath",
-            "byValue": "//li[text()='登出']"
-        }
+  "login": {
+    "userName": {
+      "by": "id",
+      "byValue": "loginname"
+    },
+      "passwd": {
+      "by": "id",
+      "byValue": "password"
+    },
+    "loginButton": {
+      "by": "xpath",
+      "byValue": ".//button[@type='submit']"
     }
+  }
 }
 
